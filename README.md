@@ -52,29 +52,25 @@
 ## Featured Projects
 
 ### [Community Connect](https://github.com/huddylatimer/community-connect)
-> Non-profit volunteer management platform for Laty's Foundation
+> Non-profit volunteer management platform
 >
 > **Tech:** C#, .NET, SQL Server, Bootstrap, QR Code Integration
 
-### [TaskMaster](https://github.com/huddylatimer/taskmaster)
-> Full-stack task management system with real-time updates
+### [Full Stack Blog Platform](https://github.com/huddylatimer/full-stack-blog-platform)
+> A modern, production-ready blog platform with secure authentication, rich publishing tools, image uploads, and a sleek, accessible UI. Built to be a standout portfolio project and easily deployable.
 >
-> **Tech:** C#, ASP.NET Core, SQL Server, JavaScript, REST API
+> **Tech:** React, JavaScript, REST API
 
-### [PocketBudget](https://github.com/huddylatimer/pocketbudget-android)
-> Android personal finance app with OCR receipt scanning and AI-powered categorization
+### [Enterprise Inventory System](https://github.com/huddylatimer/enterprise-inventory-system)
+> A modern WPF desktop application for inventory management with AI-powered insights, built with .NET 8, Entity Framework Core, and Google Gemini integration.
 > 
-> **Tech:** Java, Android SDK, ML Kit, SQLite, Material Design 3
+> **Tech:** C#, .NET
 
-### [DevCollab](https://github.com/huddylatimer/devcollab)
-> Real-time collaborative code editor with WebSocket technology
+### [Stable Asteroids](https://github.com/huddylatimer/stable-asteroids)
+> A modern, enhanced version of the classic Asteroids game built with C++ and SFML. Features custom window styling, three difficulty levels, and brutal gameplay mechanics that will challenge even the most skilled players!
 >
-> **Tech:** Node.js, Socket.io, MongoDB, Monaco Editor
+> **Tech:** C++, CMake,  Makefile
 
-### [CodeSnippet Hub](https://github.com/huddylatimer/codesnippet-hub)
-> Developer tool for saving and organizing code snippets with API
->
-> **Tech:** Node.js, Express, MongoDB, REST API, JWT
 
 ---
 
