@@ -1,81 +1,130 @@
-# Hi, I'm Hudson 👋
+# Hudson Latimer
 
-**Full-Stack Developer** building modern web applications with React, Next.js, and TypeScript.
+**Technical Support & QA Professional | Full-Stack Developer | iOS App Builder**
 
-I specialize in creating production-ready applications with clean code, intuitive UIs, and real-world functionality. Currently seeking junior/entry-level developer opportunities in Canada.
-
----
-
-## 🚀 Featured Projects
-
-### [FlowMark](https://github.com/HuddyLatimer/FlowMark) - Task Management Platform
-Full-stack project management app with real-time collaboration, team workspaces, and Kanban boards.
-
-**Tech:** Next.js • Supabase • TypeScript • Real-time • Prisma  
-**[Live Demo](#)** | **[Source Code](https://github.com/HuddyLatimer/FlowMark)**
+📧 hudsonlatimer4@gmail.com | 📱 (786) 883-5208 | 🇨🇦 Nova Scotia, Canada
 
 ---
 
-### [ApplyFlow](https://github.com/HuddyLatimer/ApplyFlow) - Job Application Tracker
-Chrome extension that helps job seekers organize and track applications from LinkedIn and Indeed.
+## About Me
 
-**Tech:** React • Chrome API • TypeScript • Manifest V3  
-**[Chrome Store](#)** | **[Source Code](https://github.com/HuddyLatimer/ApplyFlow)**
+I'm a technical support professional and IT specialist with hands-on experience testing applications, troubleshooting software systems, and identifying technical issues. I have a strong understanding of the software development lifecycle, system architecture, and support best practices.
 
----
+Currently finishing my **IT Programming Diploma** from Nova Scotia Community College (graduating April 2026) with a focus on QA, testing, and technical support.
 
-### [AI Writing Assistant](https://github.com/HuddyLatimer/AI-Writing-Assistant) - Content Generator
-Multi-mode AI tool with real-time streaming responses for emails, blog posts, and social content.
-
-**Tech:** Next.js • Gemini API • TypeScript • Streaming  
-**[Live Demo](https://aiemails.netlify.app)** | **[Source Code](https://github.com/HuddyLatimer/AI-Writing-Assistant)**
+**Google Technical Support Fundamentals Certified** | October 2025
 
 ---
 
-## 💻 Tech Stack
+## Technical Skills
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+**Languages:** Python, JavaScript, TypeScript, C++, C#, Java, HTML, CSS
 
-**Backend & Database**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+**Testing & QA:** Software testing, bug identification, API testing, system troubleshooting, test case development
 
-**Tools & Other**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Chrome Extensions](https://img.shields.io/badge/-Chrome%20Extensions-4285F4?style=flat&logo=google-chrome&logoColor=white)
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-009688?style=flat&logo=fastapi&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+**Platforms:** iOS, Android, Windows, Linux
+
+**Tools & Infrastructure:** SQLite, REST APIs, Windows Server, Windows OS, Linux Administration
+
+**Specializations:** Software testing, quality assurance, technical troubleshooting, system administration
 
 ---
 
-## 📊 GitHub Stats
+## Experience
 
-![Hudson's GitHub stats](https://github-readme-stats.vercel.app/api?username=HuddyLatimer&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+### Freelance Web Developer | 2024 – Present
+- Designed, developed, and tested custom web applications
+- Identified and resolved technical issues in application performance
+- Integrated and tested third-party APIs
+- Delivered quality-assured solutions
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HuddyLatimer&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+### President, Latys Foundation | 2024 – Present
+- Lead a Canadian non-profit organization
+- Manage IT operations and technical infrastructure
+- Troubleshoot technical issues and support team members
+- Demonstrate problem-solving across diverse scenarios
 
 ---
 
-## 📫 Let's Connect
+## Projects & Testing Experience
 
-- 🌐 **Portfolio:** [hudsonlatimer.com](https://hudsonlatimer.com)
-- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/hudson-latimer-585277343/)
-- 📧 **Email:** hudsonlatimer4@gmail.com
+### OneMoreSip iOS Application
+- Full-featured iOS app currently in Apple App Store review
+- **Role:** Developed and tested functionality, UI, and system performance
+- **Technologies:** Swift, iOS SDK
+
+### Polyfolio – Crypto Wallet Tracker
+- Real-time wallet tracking web application
+- **Role:** Tested API integration, data accuracy, and system reliability
+- **Technologies:** React, Node.js, APIs
+
+### Jokes Android Mobile App
+- Android application with API integration
+- **Role:** Tested cross-platform compatibility and API functionality
+- **Technologies:** Android Studio, Java, APIs
+
+### Data-Structures Visualizer
+- Interactive graph algorithm visualization tool
+- **Role:** Tested performance, UI/UX, and system stability
+- **Technologies:** React, TypeScript, D3.js
+
+### ApplyFlow Chrome Extension
+- Job application tracking extension
+- **Role:** Tested extension compatibility and data persistence
+- **Technologies:** Chrome APIs, JavaScript
+
+### AI Writing Assistant
+- Production-ready web app with real-time streaming
+- **Role:** Tested real-time performance and feature reliability
+- **Technologies:** React, Node.js, Streaming APIs
+
+### WealthTrackPro Personal Finance App
+- AI-powered financial management application
+- **Role:** Tested functionality and data accuracy
+- **Technologies:** React, AI integration
+
+### Data Dashboard
+- Multi-API data aggregation dashboard
+- **Role:** Tested API reliability and data accuracy
+- **Technologies:** React, REST APIs
 
 ---
 
-<div align="center">
+## Education
 
-**💡 Open to junior/entry-level full-stack developer opportunities**  
-*Remote • Canada • Hybrid*
+**IT Programming Diploma**
+Nova Scotia Community College | Graduating April 2026
+- Software development, testing, database management, networking, systems administration
+- Full software development lifecycle and testing procedures
+- System architecture and programming concepts
 
-</div>
+---
+
+## Certifications
+
+✅ **Google Technical Support Fundamentals** - October 2025 (Credential ID: O4M1RPV5QXH2)
+✅ **WHMIS Certification** - Workplace Hazardous Materials Information Systems
+✅ **Nova Scotia OH&S Act Training** - Occupational Health & Safety
+
+---
+
+## Open To
+
+- 🎯 Remote QA Tester positions
+- 🎯 Remote Technical Support roles
+- 🎯 Quality Assurance opportunities
+- 🎯 IT Support positions
+- 🎯 Freelance technical testing projects
+
+---
+
+## Get in Touch
+
+- **Email:** hudsonlatimer4@gmail.com
+- **Phone:** (786) 883-5208
+- **LinkedIn:** https://www.linkedin.com/in/hudson-latimer-585277343/
+- **Portfolio:** https://hudsonlatimer.com
+
+---
+
+*Last Updated: January 2026*
